@@ -20,6 +20,9 @@
 #if  0 && defined(__ASSEMBLY__)
 #include "my_include.h"
 #endif
+#define LV_HOR_RES_MAX 152
+#define LV_VER_RES_MAX 486
+#define LV_DISP_ROTATION LV_DISP_ROT_90
 
 /*====================
    COLOR SETTINGS
